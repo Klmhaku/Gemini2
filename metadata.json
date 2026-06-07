@@ -1,0 +1,6 @@
+{
+  "name": "Giga Robot Education",
+  "description": "Giga Education Landing Page featuring a futuristic interactive Spline 3D Tesla-style robot, tailored for the premium cognitive training program of 'Kim Haku-loving Baby Gumi'.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
